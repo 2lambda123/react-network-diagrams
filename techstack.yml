@@ -2,7 +2,7 @@ repo_name: 2lambda123/react-network-diagrams
 report_id: 474f78ec0bcf362e20fe6532adcfe986
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:53:57+00:00'
+timestamp: '2024-02-29T19:16:30+00:00'
 requested_by: 2lambda123
 provider: github
 branch: master
@@ -123,7 +123,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/react-network-diagrams
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
